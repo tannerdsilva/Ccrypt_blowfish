@@ -1,3 +1,4 @@
 [submodule "crypt_blowfish"]
 	path = crypt_blowfish
 	url = https://github.com/openwall/crypt_blowfish.git
+	branch = main
